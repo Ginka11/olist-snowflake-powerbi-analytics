@@ -31,15 +31,15 @@ flowchart LR
 
 ```text
 olist-snowflake-powerbi-analytics/
-â”œâ”€â”€ SnowflakeProject.pbix
-â”œâ”€â”€ screenshots/
-â”‚   â”œâ”€â”€ first.png
-â”‚   â”œâ”€â”€ second.png
-â”‚   â”œâ”€â”€ third.png
-â”‚   â”œâ”€â”€ fourth.png
-â”‚   â”œâ”€â”€ fifth.png
-â”‚   â””â”€â”€ sixth.png
-â””â”€â”€ README.md
+SnowflakeProject.pbix
+screenshots/
+first.png
+second.png
+third.png
+fourth.png
+fifth.png
+sixth.png
+README.md
 ```
 
 The repository currently contains the Power BI artifact and report screenshots. Python and SQL source files are not committed, so the pipeline cannot yet be reproduced from this repository alone.
