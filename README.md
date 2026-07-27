@@ -71,5 +71,5 @@ The current report is a learning prototype, not a production dashboard. A qualit
 
 ## Technologies
 
-Snowflake Â· SQL Â· Python Â· SQLite Â· Power BI Desktop Â· Power BI Service
+Snowflake | SQL | Python | SQLite | Power BI Desktop | Power BI Service
 
